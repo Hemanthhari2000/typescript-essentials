@@ -1,0 +1,17 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Hemanth",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
